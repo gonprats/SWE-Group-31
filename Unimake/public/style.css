@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d3d3d3;
+}
+
+.uni {
+    font-size: 25px;
+    font-family: 'Papyrus';
+    margin: 0;
+    padding: 15px 10px;
+}
+
+nav {
+    background-color: #242526;
+    color: #fff;
+    display: flex; 
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 1px 8px;
+}
+
+nav li a:hover {
+    color: #203354;
+    text-decoration: none;
+}
+
+form {
+    display: inline-block;
+    padding: 8px;
+}
+
+label {
+    display: block;
+    margin-top: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+label:first-of-type {
+    margin-top: 0;
+}
+
+input {
+    padding: .5em;
+    border: solid #203354;
+}
+
+button{
+    display: block;
+    margin-top: 1em;
+    padding: 0.5em, 1em;
+    border-radius: 3px;
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rform {
+    margin: center;
+}
