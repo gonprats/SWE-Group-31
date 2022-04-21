@@ -3,10 +3,10 @@ Gonzalo Prats, Hugo Chapado, Emmanuel Mora and Justin Thai
 
 <!-- Menu -->
 <details open="open">
-  <summary>Projects</summary>
+  <summary>Menu</summary>
   <ol>
     <li><a href="#Description">Description</a></li>
-    <li><a href="#Instructions to Run">Mips Simulator</a></li>
+    <li><a href="#Instructions to Run">Instructions to run</a></li>
     <li><a href="#Database">Database</a></li>
   </ol>
 </details>
